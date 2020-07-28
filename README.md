@@ -2,7 +2,7 @@
 安仁屋慶大
 
 ## 課題
-1.Chapter01 「[Windows環境でHTMLを作ってみよう](chapter/ch01-firsthtml-win.html)」
+1.Chapter01 「[Windows環境でHTMLを作ってみよう](chapter01/ch01-firsthtml-win.html)」
 2.Chapter02 「[Linux環境でHTMLを作ってみよう](chapter02/ch02-firshtml-linux.html)」
 3.Chapter03 「[マークアップの考え方トレーニング](chapter03/ch03-markuptag1.html)」
 4.Chapter04 「[自己紹介ページ](chapter04/ch04-markuptag1.html)」
